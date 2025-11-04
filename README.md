@@ -18,6 +18,7 @@ RTCWBoard game is a board game meant for my studies, if it goes well then it may
 # RTCW Board based on this level
 This is original topdown view of Escape 1 levels build
 > *Decorations are removed*
+
 | View |
 | :---: |
 | ![Escape 1](escape1build.png) |
